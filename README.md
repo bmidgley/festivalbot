@@ -10,6 +10,8 @@ Built using:
 
 Drill a hole in the center back of the sled to hold a sharpie.
 
+I had to use an older IDE by going to [https://makecode.microbit.org/v1#editor](https://makecode.microbit.org/v1#editor) to build the js. There is a bug in the current editor that prevents the use of servos.
+
 Press and hold button A while driving to slow down to turtle mode. Hold button B while driving for rabbit mode.
 
 ![Flowerpetal](IMG_6214.JPG)
