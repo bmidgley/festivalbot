@@ -10,5 +10,7 @@ Built using:
 
 Drill a hole in the center back of the sled to hold a sharpie.
 
+Press and hold button A while driving to slow down to turtle mode. Hold button B while driving for rabbit mode.
+
 ![Flowerpetal](IMG_6214.JPG)
 ![Readypic](IMG_6211.JPG)
