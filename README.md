@@ -3,6 +3,7 @@ Utah Arts Festival 2019 Draw Bot
 
 Built using:
 
+* left servo goes to P1; right servo goes to P2
 * two microbit boards; one controller you hold and tilt and the other in the car
 * elecfreaks.com servo driver board (probably also runs ring:bit car)
 * Feetech FT-MC-003 4WD Mini Mobile Robotics Platform Kit (bed only)
